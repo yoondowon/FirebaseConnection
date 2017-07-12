@@ -1,7 +1,7 @@
 # FirebaseConnection
 Android code for access to Firebase Realtime Database
 
-For more information on the blog: http://nife0719.blog.me/221035148567 
+For more information on the blog: http://nife0719.blog.me/221049879862 
 
 ## Contents
 ### Access the SQLite Database and perform the following tasks
